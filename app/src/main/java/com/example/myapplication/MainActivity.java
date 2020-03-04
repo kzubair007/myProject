@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "recieveing", Toast.LENGTH_SHORT).show();
     }
     public void deleteNow(View view) {
-        Toast.makeText(this, "deleting", Toast.LENGTH_SHORT).show();
+
     }
 
     @Override
